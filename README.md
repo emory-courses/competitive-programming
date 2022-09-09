@@ -1,4 +1,4 @@
-# Competitive Programming
+# Competitive Programming at Emory
 
 ## Important Dates
 
