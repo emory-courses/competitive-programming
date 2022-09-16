@@ -17,7 +17,7 @@ Southeast, South Central, and Mid Atlantic regions will combine to form a Southe
 | Date  | Topic |
 |:-----:|-------|
 | 09/16 | [Introduction, practice contest 0](https://docs.google.com/presentation/d/1L769HDKcs7RHMeoX6busfE9P3QLoRxvmp5WstMZrrys/edit?usp=sharing) |
-| 09/23 | Greedy & dynamic programming 1 (LCP)  |
+| 09/23 | Greedy & dynamic programming 1 (Two pointers, LCP)  |
 | 09/30 | Graphs, DFS, BFS, trees  |
 | 10/07 | Brute force, backtracking, binary search  |
 | 10/14 | Basic number theory (modulo operator, factorization, sieve of Eratosthenes, GCD algorithm, logarithmic exponentiation, modular inverse, combinations)  |
