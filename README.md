@@ -32,8 +32,8 @@ Southeast, South Central, and Mid Atlantic regions will combine to form a Southe
 ## Training Resources
 
 Problem banks & contests
-* [Codeforces](https://codeforces.com/) - Most popular competitive programming website
-* [AtCoder](https://atcoder.jp/) - Really good, high problem quality, more mathy problems
+* [Codeforces](https://codeforces.com/) - Most popular competitive programming website, generally really good problems
+* [AtCoder](https://atcoder.jp/) - Really good high quality problems, more mathy
 * [HackerRank](https://www.hackerrank.com/) - Targets job interviews, low quality problems
 * [LeetCode](https://leetcode.com/) - Targets job interviews, low quality problems
 
