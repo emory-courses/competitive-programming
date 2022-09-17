@@ -31,6 +31,10 @@ Southeast, South Central, and Mid Atlantic regions will combine to form a Southe
 
 ## Training Resources
 
+General practice tips
+* For a practice session, pick a contest, and solve all problems you can until you hit one that is too hard. After you don't have any ideas left and you've thought for at least 30 minutes, look up the solution, understand it, implement it, and think how you could come up with such a solution yourself next time. Then either try the next problem or move on to another contest.
+* Don't go through lists of algorithms and learn them one by one, instead solve problems and learn the algorithms when you see them come up in solutions.
+
 Problem banks & contests
 * [Codeforces](https://codeforces.com/) - Most popular competitive programming website, generally really good problems
 * [AtCoder](https://atcoder.jp/) - Really good high quality problems, more mathy
@@ -41,5 +45,3 @@ Learning topics and algorithms
 * [CP Algorithms](https://cp-algorithms.com/)
 * [USACO Guide](https://usaco.guide/)
 * [Yosupo's Library Checker](https://judge.yosupo.jp/) - For checking own implementation of classic algorithms
-
-Don't go through lists of algorithms and learn them one by one, instead solve problems and learn the algorithms when you see them come up in solutions.
