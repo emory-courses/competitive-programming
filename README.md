@@ -28,3 +28,18 @@ Southeast, South Central, and Mid Atlantic regions will combine to form a Southe
 | 11/18 | Segment trees  |
 | 11/25 | Thanksgiving Recess |
 | 12/02 | Yet more dynamic programming (knapsack, using data structures), practice contest 2  |
+
+## Training Resources
+
+Problem banks & contests
+* [Codeforces](https://codeforces.com/) - Most popular competitive programming website
+* [AtCoder](https://atcoder.jp/) - Really good, high problem quality, more mathy problems
+* [HackerRank](https://www.hackerrank.com/) - Targets job interviews, low quality problems
+* [LeetCode](https://leetcode.com/) - Targets job interviews, low quality problems
+
+Learning topics and algorithms
+* [CP Algorithms](https://cp-algorithms.com/) - Lots of amazing tutorials
+* [USACO Guide](https://usaco.guide/)
+* [Yosupo's Library Checker](https://judge.yosupo.jp/) - For checking own implementation of classic algorithms
+
+Don't go through lists of algorithms and learn them one by one, instead solve problems and learn the algorithms when you see them come up in solutions.
