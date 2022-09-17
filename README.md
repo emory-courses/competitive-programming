@@ -38,7 +38,7 @@ Problem banks & contests
 * [LeetCode](https://leetcode.com/) - Targets job interviews, low quality problems
 
 Learning topics and algorithms
-* [CP Algorithms](https://cp-algorithms.com/) - Lots of amazing tutorials
+* [CP Algorithms](https://cp-algorithms.com/)
 * [USACO Guide](https://usaco.guide/)
 * [Yosupo's Library Checker](https://judge.yosupo.jp/) - For checking own implementation of classic algorithms
 
