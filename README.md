@@ -1,6 +1,11 @@
 # Competitive Programming at Emory
 
 We meet every **Friday 5 - 6:30PM** at **W303** in the **Math and Science Center** to practice competitive programming for the International Collegiate Programming Contest (ICPC).
+Please subscribe to our mailing list if you want to join our training sessions (Emory students only):
+
+* Send an email to LISTSERV@listserv.emory.edu (no subject is needed).
+* In the body, write SUBSCRIBE COMPETITIVE-PROGRAMMING [your first name] [your last name] (e.g., `SUBSCRIBE COMPETITIVE-PROGRAMMING Jinho Choi`).
+
 
 ## Important Dates
 
@@ -10,7 +15,7 @@ We meet every **Friday 5 - 6:30PM** at **W303** in the **Math and Science Center
 
 ## Schedule
 
-[Practice Contest Website](https://emory.contest.codeforces.com)
+[Emory Codeforces Website](https://emory.contest.codeforces.com)
 
 | Date  | Topic | 
 |:-----:|-------|
