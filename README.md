@@ -20,14 +20,14 @@ Please subscribe to our mailing list if you want to join our training sessions (
 | Date  | Topic | 
 |:-----:|-------|
 | 09/16 | [Introduction](https://docs.google.com/presentation/d/1L769HDKcs7RHMeoX6busfE9P3QLoRxvmp5WstMZrrys/edit?usp=sharing), [Practice Contest 0](https://emory.contest.codeforces.com/group/b4f7HxeQ1x/contest/399160) |
-| 09/23 | Greedy & Dynamic Programming 1 (Two pointers, LCP)  |
+| 09/23 | C++ STL, Greedy & Dynamic Programming 1 (Two pointers, LCP)  |
 | 09/30 | Trees, Graphs, DFS, BFS |
 | 10/07 | Brute-force, Backtracking, Binary Search, Bitmasks  |
 | 10/14 | Number Theory (modulo operator, factorization, sieve of Eratosthenes, GCD algorithm, logarithmic exponentiation, modular inverse, combinations)  |
 | 10/21 | Practice Contest 1 (remote) |
 | 10/28 | Greedy & Dynamic Programming 2 (MST, Tree DP)  |
 | 11/04 | Dynamic Programming (DAG, topological sort, Dijkstra)  |
-| 11/11 | Data Structures (partial sums, DSU, C++ STL)  |
+| 11/11 | Data Structures (partial sums, DSU)  |
 | 11/18 | Segment Trees  |
 | 11/25 | Thanksgiving Recess |
 | 12/02 | Dynamic Programming (knapsack, using data structures), Practice Contest 2  |
