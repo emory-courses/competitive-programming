@@ -21,7 +21,7 @@ Please subscribe to our mailing list if you want to join our training sessions (
 |:-----:|-------|
 | 09/16 | [Introduction](https://docs.google.com/presentation/d/1L769HDKcs7RHMeoX6busfE9P3QLoRxvmp5WstMZrrys/edit?usp=sharing), [Practice Contest 0](https://emory.contest.codeforces.com/group/b4f7HxeQ1x/contest/399160) |
 | 09/23 | Time complexity, C++ STL, Greedy, Complete Search 1 |
-| 09/30 | Complete Search 2, Bitmasks, Dynamic Programming 1 |
+| 09/30 | Complete Search 2, Bitmasks, Binary Search, Dynamic Programming 1 |
 | 10/07 | Trees, Graphs, DFS, BFS |
 | 10/14 | Number Theory (modulo operator, factorization, sieve of Eratosthenes, GCD algorithm, logarithmic exponentiation, modular inverse, combinations)  |
 | 10/21 | Practice Contest 1 (remote) |
