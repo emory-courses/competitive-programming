@@ -1,6 +1,10 @@
-# Competitive Programming at Emory
+# M||E Competitive Programming
 
-We meet every **Friday 5 - 6:30PM** at **W303** in the **Math and Science Center** to practice competitive programming for the International Collegiate Programming Contest (ICPC).
+**M||E** (pronounced "Emory") **Competitive Programming** is a student-led organization interested in [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming) that requires proficient skills in problem solving, efficient coding, and error handling.
+We meet every **Friday 5:00 - 6:30 PM** at **W303** in the **Math and Science Center** and provide training sessions and practice tests to prepare for the International Collegiate Programming Contest (ICPC).
+The Emory teams have participated in [the ICPC Southeast USA Regional Programming Contest](http://seusa.vanb.org) for many years and have consistently been among the top 3 schools.
+We strive for our teams to advance to the ICPC World Final, one of the most prestigious competitions for undergraduates in Computer Science.
+
 Please subscribe to our mailing list if you want to join our training sessions (Emory students only):
 
 * Send an email to LISTSERV@listserv.emory.edu (no subject is needed).
@@ -17,27 +21,27 @@ Please subscribe to our mailing list if you want to join our training sessions (
 
 [Emory Codeforces Website](https://emory.contest.codeforces.com)
 
-| Date  | Topic | 
-|:-----:|-------|
-| 09/16 | [Introduction](https://docs.google.com/presentation/d/1L769HDKcs7RHMeoX6busfE9P3QLoRxvmp5WstMZrrys/edit?usp=sharing), [Practice Contest 0](https://emory.contest.codeforces.com/group/b4f7HxeQ1x/contest/399160) |
-| 09/23 | [Time complexity, C++ STL, Greedy, Complete Search 1](https://docs.google.com/presentation/d/1lBoAJhiaPxA6SimUiRe5MbSpeSOMyTIpDiYIkdQPGfQ/edit?usp=sharing) |
-| 09/30 | Complete Search 2, Bitmasks, Binary Search, Dynamic Programming 1 |
-| 10/07 | Trees, Graphs, DFS, BFS |
-| 10/14 | Number Theory (modulo operator, factorization, sieve of Eratosthenes, GCD algorithm, logarithmic exponentiation, modular inverse, combinations)  |
-| 10/21 | Practice Contest 1 (remote) |
-| 10/28 | Greedy & Dynamic Programming 2 (MST, Tree DP)  |
-| 11/04 | Dynamic Programming (DAG, topological sort, Dijkstra)  |
-| 11/11 | Data Structures (partial sums, DSU)  |
-| 11/18 | Segment Trees  |
-| 11/25 | Thanksgiving Recess |
-| 12/02 | Dynamic Programming (knapsack, using data structures), Practice Contest 2  |
-
-## Resources
+| Date  | Topic | Practice |
+|:-----:|-------|-------|
+| 09/16 | [Introduction](https://docs.google.com/presentation/d/1L769HDKcs7RHMeoX6busfE9P3QLoRxvmp5WstMZrrys/edit?usp=sharing) | [Test](https://emory.contest.codeforces.com/group/b4f7HxeQ1x/contest/399160) |
+| 09/23 | [Time complexity, C++ STL, Greedy, Complete Search 1](https://docs.google.com/presentation/d/1lBoAJhiaPxA6SimUiRe5MbSpeSOMyTIpDiYIkdQPGfQ/edit?usp=sharing) | [Test 1](https://codeforces.com/group/b4f7HxeQ1x/contest/400068), [Test 2](https://codeforces.com/group/b4f7HxeQ1x/contest/400070) |
+| 09/30 | Complete Search 2, Bitmasks, Binary Search, Dynamic Programming 1 | |
+| 10/07 | Trees, Graphs, DFS, BFS | |
+| 10/14 | Number Theory (modulo operator, factorization, sieve of Eratosthenes, GCD algorithm, logarithmic exponentiation, modular inverse, combinations)  | |
+| 10/21 | Practice Contest 1 (remote) | |
+| 10/28 | Greedy & Dynamic Programming 2 (MST, Tree DP)  | |
+| 11/04 | Dynamic Programming (DAG, topological sort, Dijkstra)  | |
+| 11/11 | Data Structures (partial sums, DSU)  | |
+| 11/18 | Segment Trees  | |
+| 11/25 | Thanksgiving Recess | |
+| 12/02 | Dynamic Programming (knapsack, using data structures), Practice Contest 2  | |
 
 ### General Tips
 
 * For a practice session, pick a contest, and solve all problems you can until you hit one that is too hard. After you don't have any ideas left and you've thought for at least 30 minutes, look up the solution, understand it, implement it, and think how you could come up with such a solution yourself next time. Then either try the next problem or move on to another contest.
 * Don't go through lists of algorithms and learn them one by one, instead solve problems and learn the algorithms when you see them come up in solutions.
+
+## Resources
 
 ###  Problem Banks & Contests
 
