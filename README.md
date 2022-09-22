@@ -20,7 +20,7 @@ Please subscribe to our mailing list if you want to join our training sessions (
 | Date  | Topic | 
 |:-----:|-------|
 | 09/16 | [Introduction](https://docs.google.com/presentation/d/1L769HDKcs7RHMeoX6busfE9P3QLoRxvmp5WstMZrrys/edit?usp=sharing), [Practice Contest 0](https://emory.contest.codeforces.com/group/b4f7HxeQ1x/contest/399160) |
-| 09/23 | C++ STL, Greedy & Dynamic Programming 1 (Two pointers, LCP)  |
+| 09/23 | Time complexity, C++ STL, Greedy & Dynamic Programming 1 |
 | 09/30 | Trees, Graphs, DFS, BFS |
 | 10/07 | Brute-force, Backtracking, Binary Search, Bitmasks  |
 | 10/14 | Number Theory (modulo operator, factorization, sieve of Eratosthenes, GCD algorithm, logarithmic exponentiation, modular inverse, combinations)  |
@@ -48,6 +48,7 @@ Please subscribe to our mailing list if you want to join our training sessions (
 
 ### Learning Topics and Algorithms
 
+* [Competitive Programmer's Handbook](https://usaco.guide/CPH.pdf)
 * [CP Algorithms](https://cp-algorithms.com/)
 * [USACO Guide](https://usaco.guide/)
 * [Yosupo's Library Checker](https://judge.yosupo.jp/) - For checking own implementation of classic algorithms
