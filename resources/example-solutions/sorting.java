@@ -19,7 +19,7 @@ public class Main {
         InputReader in = new InputReader(inputStream);
         PrintWriter out = new PrintWriter(outputStream);
         Solution solver = new Solution();
-        solver.solve(1, in, out);
+        solver.solve(in, out);
         out.close();
     }
  
@@ -27,7 +27,7 @@ public class Main {
         int n;
         long[] a;
  
-        public void solve(int testNumber, InputReader in, PrintWriter out) {
+        public void solve(InputReader in, PrintWriter out) {
             n = in.nextInt();
             a = new long[n];
             for (int i = 1; i < n; i++) a[i] = in.nextLong();
