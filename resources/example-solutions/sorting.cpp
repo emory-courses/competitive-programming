@@ -8,8 +8,8 @@ int n;
 long long a[100005];
 
 int main(){
-	// This makes cin/cout as fast as prinf/scanf
-	// If you include this line, NEVER use printf/scanf as they break functionality
+    // This makes cin/cout as fast as prinf/scanf
+    // If you include this line, NEVER use printf/scanf as they break functionality
     ios_base :: sync_with_stdio(0); cin.tie(); cout.tie();
 
     cin >> n; // Read n
