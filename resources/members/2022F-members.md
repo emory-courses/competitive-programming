@@ -9,40 +9,40 @@
 
 |  Name | 9/16 | 9/23 |
 |-------------------------|:--:|:--:|
-| Aromolaran, Adedoyin    |    | X  |
-| Bian, Shuyang (Simon)   | X  | X  |
-| Chang, Andrew           |    | X  |
-| Chen, David             | X  |    | 
+| Aromolaran, Adedoyin    |    | O  |
+| Bian, Shuyang (Simon)   | O  | O  |
+| Chang, Andrew           |    | O  |
+| Chen, David             | O  |    | 
 | Chen, Qi                |    |    |
 | Chen, Zhaoliang         |    |    |
 | Cho, Chol Yeon          |    |    |
-| Choi, Jacob             | X  |    |
-| Gnassingbe, Essowakina  | X  |    |
-| He, Hongxiang (Harry)   | X  | X  |
-| Huang, Sheng            | X  | X  |
-| Jeon, Hyunbae (Harry)   | X  | X  |
-| Ji, Jie (Jason)         | X  |    |
-| Josyula, Yasasvi        | X  | X  |
-| Kwon, Yujin             | X  | X  |
-| Lee, Jaeyeon (Jay)      | X  |    |
-| Liu, Blake              | X  |    |
+| Choi, Jacob             | O  |    |
+| Gnassingbe, Essowakina  | O  |    |
+| He, Hongxiang (Harry)   | O  | O  |
+| Huang, Sheng            | O  | O  |
+| Jeon, Hyunbae (Harry)   | O  | O  |
+| Ji, Jie (Jason)         | O  |    |
+| Josyula, Yasasvi        | O  | O  |
+| Kwon, Yujin             | O  | O  |
+| Lee, Jaeyeon (Jay)      | O  |    |
+| Liu, Blake              | O  |    |
 | Liu, Sichen             |    |    |
 | Liu, Wenjun             |    |    |
 | Lu, Haoyuan             |    |    |
-| Martinez, Sabrina       | X  | X  |
+| Martinez, Sabrina       | O  | O  |
 | Ouyang, James           |    |    |
-| Ozkara, Etna            | X  |    |
+| Ozkara, Etna            | O  |    |
 | Peguero Jr., Jonatan    |    |    |
-| Qin, Muran (Kevin)      | X  | X  |
+| Qin, Muran (Kevin)      | O  | O  |
 | Rudi, Alexandru         |    |    |
 | Rui, Xue                |    |    |
-| Shah, Rishika           | X  |    |
-| Shahid, Muhammad Haider | X  |    |
-| Wendkos, Lindsey        | X  |    |
-| Woo, Cashin             | X  | X  |
-| Yirdaw, Elshaday        | X  |    |
-| You, Bowen              | X  |    |
-| Zhang, Yuxi (Jonathan)  |    | X  |
-| Zhao, Boxin (Zinc)      | X  |    |
-| Zhong, Tianjun          |    | X  |
+| Shah, Rishika           | O  |    |
+| Shahid, Muhammad Haider | O  |    |
+| Wendkos, Lindsey        | O  |    |
+| Woo, Cashin             | O  | O  |
+| Yirdaw, Elshaday        | O  |    |
+| You, Bowen              | O  |    |
+| Zhang, Yuxi (Jonathan)  |    | O  |
+| Zhao, Boxin (Zinc)      | O  |    |
+| Zhong, Tianjun          |    | O  |
 | **Total**               | 22 | 13 |
