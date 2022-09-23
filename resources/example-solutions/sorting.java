@@ -30,7 +30,7 @@ public class Main {
         public void solve(int testNumber, InputReader in, PrintWriter out) {
             n = in.nextInt();
             a = new long[n];
-            for (int i = 1; i < n; i++) a[i] = Long.parseLong(in.next());
+            for (int i = 1; i < n; i++) a[i] = in.nextLong();
             Arrays.sort(a);
             for (int i = 0; i < n; i++) out.print(a[i] + " ");
             out.println();
@@ -61,6 +61,10 @@ public class Main {
  
         public int nextInt() {
             return Integer.parseInt(next());
+        }
+
+        public int nextLong() {
+            return Long.parseLong(next());
         }
  
     }
