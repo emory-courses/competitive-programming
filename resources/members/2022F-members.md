@@ -16,7 +16,8 @@
 | Chen, Qi                |    |    |    |    |    |    |    |    |    |    |    |  1 |
 | Chen, Zhaoliang         |    |    |    |    |    |    |    |    |    |    |    |  1 |
 | Cho, Chol Yeon          |    |    |    |    |    |    |    |    |    |    |    |  1 |
-| Choi, Jacob             | O  |    |    |    |    |    |    |    |    |    |    |  1 |
+| Choi, Jacob             | O  | O  |    |    |    |    |    |    |    |    |    |  2 |
+| Chou, Zechary           |    | O  |    |    |    |    |    |    |    |    |    |  1 |
 | Gnassingbe, Essowakina  | O  |    |    |    |    |    |    |    |    |    |    |  1 |
 | He, Hongxiang (Harry)   | O  | O  |    |    |    |    |    |    |    |    |    |  2 |
 | Huang, Sheng            | O  | O  |    |    |    |    |    |    |    |    |    |  2 |
@@ -44,7 +45,7 @@
 | You, Bowen              | O  |    |    |    |    |    |    |    |    |    |    |  1 |
 | Zhang, Yuxi (Jonathan)  |    | O  |    |    |    |    |    |    |    |    |    |  1 |
 | Zhao, Boxin (Zinc)      | O  |    |    |    |    |    |    |    |    |    |    |  1 |
-| Zhong, Tianjun          |    | O  |    |    |    |    |    |    |    |    |    |  1 |
-| **Σ**                   | 22 | 13 |    |    |    |    |    |    |    |    |    | NA |
+| Zhong, Tianjun          | O  | O  |    |    |    |    |    |    |    |    |    |  2 |
+| **Σ**                   | 23 | 15 |    |    |    |    |    |    |    |    |    | NA |
 
 * 10/21 is a remote meeting
