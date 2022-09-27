@@ -13,6 +13,7 @@ Please subscribe to our mailing list if you want to join our training sessions (
 
 ## Important Dates
 
+* [2022-10-01] [Mount Allison Programming Showdown](https://mapscontest.com)
 * [2022-10-27] ICPC NAC Virtual Career Fair
 * [2023-02-25] [ICPC Southern USA Regional Programming Contest](http://seusa.vanb.org)
 
