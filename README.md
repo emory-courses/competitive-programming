@@ -20,7 +20,8 @@ Please subscribe to our mailing list if you want to join our training sessions (
 
 ## Schedule
 
-[Emory Codeforces Website](https://emory.contest.codeforces.com)
+* [Emory Codeforces Website](https://emory.contest.codeforces.com)
+* [Current Members](resources/members/2022F-members.md)
 
 | Date  | Topic | Practice | Survey |
 |:-----:|-------|:---------|:------:|
