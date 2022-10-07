@@ -23,6 +23,21 @@ vector<int> factors(int n){
 	return f;
 }
 
+// O(sqrt n)
+int count_divisors(int n){
+	int ans = 1;
+	for(int x = 2; x * x <= n; x++){
+		int p = 0;
+		while(n % x == 0){
+			p++;
+			n /= x;
+		}
+		ans *= (p + 1);
+	}
+	if(n > 1) ans *= 2;
+	return ans;
+}
+
 
 // O(n log log n)
 int sieve[1000005];
