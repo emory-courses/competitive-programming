@@ -10,7 +10,7 @@ int main(){
     for(int i = 1; i <= n; i++) cin >> a[i];
     stack<int> s;
     for(int i = 1; i <= n; i++){
-        while(s.size() > 0 && s.top() > a[i]) s.pop();
+        while(s.size() > 0 && s.top() >= a[i]) s.pop();
         if(s.size() > 0) nse[i] = s.top();
         else nse[i] = -1;
         s.push(a[i]);
