@@ -23,9 +23,9 @@ Please subscribe to our mailing list if you want to join our training sessions (
 * [Emory Codeforces Website](https://emory.contest.codeforces.com)
 * [Current Members](resources/members/2022F-members.md)
 
-| Date  | Topic | Practice | Survey |
-|:-----:|-------|:---------|:------:|
-| 09/16 | [Introduction](https://docs.google.com/presentation/d/1L769HDKcs7RHMeoX6busfE9P3QLoRxvmp5WstMZrrys/edit?usp=sharing) | [Test](https://emory.contest.codeforces.com/group/b4f7HxeQ1x/contest/399160) | [Survey](https://forms.gle/cYFositGMxUoGEK87)
+| Date  | Topic | Practice |
+|:-----:|-------|:---------|:
+| 09/16 | [Introduction](https://docs.google.com/presentation/d/1L769HDKcs7RHMeoX6busfE9P3QLoRxvmp5WstMZrrys/edit?usp=sharing) | [Test](https://emory.contest.codeforces.com/group/b4f7HxeQ1x/contest/399160) |
 | 09/23 | [Time complexity, C++ STL, Greedy, Complete Search 1](https://docs.google.com/presentation/d/1lBoAJhiaPxA6SimUiRe5MbSpeSOMyTIpDiYIkdQPGfQ/edit?usp=sharing) | [Test](https://codeforces.com/group/b4f7HxeQ1x/contest/400070) | 
 | 09/30 | [Complete Search 2, Bitmasks, Binary Search, Query Problems, Prefix Sums](https://docs.google.com/presentation/d/1PWtFvJL8dvT3LYjdew2QkUlyiCC18tgKR4_Jp9xDMEc/edit?usp=sharing) | [Test 1](https://codeforces.com/group/b4f7HxeQ1x/contest/401233), [Test 2](https://codeforces.com/group/b4f7HxeQ1x/contest/401234) |
 | 10/07 | [Number Theory & Combinatorics (modulo operator, factorization, sieve of Eratosthenes, GCD algorithm, logarithmic exponentiation, modular inverse, combinations)](https://docs.google.com/presentation/d/1RMsnrtDbZiiwFbXoR4GPS58mJ_y7v5rz8SpXH43iqCo/edit?usp=sharing) | [Test 1](https://codeforces.com/group/b4f7HxeQ1x/contest/402415), [Test 2](https://codeforces.com/group/b4f7HxeQ1x/contest/402416) |
