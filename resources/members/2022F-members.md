@@ -46,6 +46,6 @@
 | Zhang, Yuxi (Jonathan)  |       |     O |     O |       |       |       |       |       |       |       |       |   2 |
 | Zhao, Boxin (Zinc)      |     O |       |       |       |       |       |       |       |       |       |       |   1 |
 | Zhong, Tianjun          |     O |     O |     O |       |       |       |       |       |       |       |       |   3 |
-| **Σ**                   |    23 |    15 |    14 |       |       |       |       |       |       |       |       |  52 |
+| **Σ**                   |    23 |    15 |    14 |       |    10 |       |       |       |       |       |       |  52 |
 
 * 10/21 is a remote meeting
