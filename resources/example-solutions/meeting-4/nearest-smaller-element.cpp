@@ -8,12 +8,21 @@ int main(){
 
     cin >> n;
     for(int i = 1; i <= n; i++) cin >> a[i];
+    /*
     stack<int> s;
     for(int i = 1; i <= n; i++){
         while(s.size() > 0 && s.top() >= a[i]) s.pop();
         if(s.size() > 0) nse[i] = s.top();
         else nse[i] = -1;
         s.push(a[i]);
+    }
+    */
+    stack<pair<int,int>> s;
+    for(int i = 1; i <= n; i++){
+        while(s.size() > 0 && s.top().first >= a[i]) s.pop();
+        if(s.size() > 0) nse[i] = s.top().second;
+        else nse[i] = -1;
+        s.push({a[i], i});
     }
     for(int i = 1; i <= n; i++) cout << nse[i] << ' ';
     cout << '\n';
