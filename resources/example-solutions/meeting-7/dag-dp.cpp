@@ -17,7 +17,7 @@ int main(){
 
     queue<int> q;
     for(int i = 1; i <= n; i++){
-        if(indegree[i] == 0) q.push(i), dp[i] = 1;
+        if(indegree[i] == 0) q.push(i);
     }
     while(q.size()){
         int node = q.front();
