@@ -24,9 +24,9 @@ int main(){
         q.pop();
         for(pair<int,int> u : g[node]){
             indegree[u.first]--;
+            dp[u.first] = max(dp[u.first], dp[node] + u.second);
             if(indegree[u.first] == 0){
                 q.push(u.first);
-                dp[u.first] = max(dp[u.first], dp[node] + u.second);
             }
         }
     }
