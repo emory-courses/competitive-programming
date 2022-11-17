@@ -34,9 +34,9 @@ Please subscribe to our mailing list if you want to join our training sessions (
 | 10/28 | [Trees, Graphs, DFS, BFS, Shortest Path Algorithms](https://docs.google.com/presentation/d/102uyGALFDl5fQK3qm3IlCePNoCqGx1EReozlKAcySII/edit?usp=sharing)  | |
 | 11/04 | [Atcoder dp contest](https://atcoder.jp/contests/dp/tasks)  | [Editorial](https://nwatx.me/post/atcoderdp) |
 | 11/11 | [Graph Algorithms - Greedy (Prim's Algorithm) and DP (Tree DP, DAGs, Topological Sorting)](https://docs.google.com/presentation/d/1ZsntY8le4S_xLw79R5f26rb9ca_3HdaO0xhIb07CR2s/edit?usp=sharing)  | |
-| 11/18 | DSU, Kruskal's Algorithm   | |
+| 11/18 | Segment Trees   | |
 | 11/25 | Thanksgiving Recess | |
-| 12/02 | Segment Trees | |
+| 12/02 | String Hashing | |
 
 ### General Tips
 
