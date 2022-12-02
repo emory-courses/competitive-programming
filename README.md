@@ -36,7 +36,7 @@ Please subscribe to our mailing list if you want to join our training sessions (
 | 11/11 | [Graph Algorithms - Greedy (Prim's Algorithm) and DP (Tree DP, DAGs, Topological Sorting)](https://docs.google.com/presentation/d/1ZsntY8le4S_xLw79R5f26rb9ca_3HdaO0xhIb07CR2s/edit?usp=sharing)  | |
 | 11/18 | [Sparse Tables, Segment Trees](https://docs.google.com/presentation/d/1wtR8QLslp-O7Obag-qJ8ErPqJZ2s_VL6VWXeoWEUUXs/edit?usp=sharing)   | |
 | 11/25 | Thanksgiving Recess | |
-| 12/02 | String Hashing | |
+| 12/02 | [String Hashing](https://docs.google.com/presentation/d/1NBcCCvUdDUCRwYwZSZTbeeh6DQJOVUHc1L7QLBJAU7M/edit?usp=sharing) | |
 
 ### General Tips
 
