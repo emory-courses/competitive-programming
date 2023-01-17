@@ -15,6 +15,9 @@ Please subscribe to our mailing list if you want to join our training sessions (
 
 * [2022-10-01] [Mount Allison Programming Showdown](https://mapscontest.com)
 * [2022-10-27] ICPC NAC Virtual Career Fair
+* [2023-01-21/22] Local Team Selection Test
+* [2023-02-04] North America Qualifier (NAQ)
+* [2023-02-15] [Virtual Career Fair](https://app.careerfairplus.com/nn_fl)
 * [2023-02-25] [ICPC Southern USA Regional Programming Contest](http://seusa.vanb.org)
 
 
