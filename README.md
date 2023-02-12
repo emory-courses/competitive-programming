@@ -41,6 +41,9 @@ Please subscribe to our mailing list if you want to join our training sessions (
 | 11/25 | Thanksgiving Recess | |
 | 12/02 | [String Hashing](https://docs.google.com/presentation/d/1NBcCCvUdDUCRwYwZSZTbeeh6DQJOVUHc1L7QLBJAU7M/edit?usp=sharing) | |
 | 01/20 | [2021 Southeast USA Regional Contest — Division 2](https://seusa21-d2.kattis.com/contests/seusa21d2/problems) | |
+| 01/27 | [2020 Southeast USA Regional Contest](https://seusa20.kattis.com/contests/seusa20/problems) | |
+| 02/03 | [2020 Southeast USA Regional Contest](https://seusa20.kattis.com/contests/seusa20/problems) | |
+| 02/10 | [ICPC North America Qualifier 2022](https://naq22.kattis.com/contests/naq22/problems) | |
 
 ### General Tips
 
