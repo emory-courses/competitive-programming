@@ -47,6 +47,7 @@ Please subscribe to our mailing list if you want to join our training sessions (
 | 02/10 | [ICPC North America Qualifier 2022](https://naq22.kattis.com/contests/naq22/problems) | |
 | 02/17 | [ICPC North America Qualifier 2021](https://naq21-open.kattis.com/contests/naq21open/problems) | |
 | 02/25 | [2022 Southeast USA Regional Contest](https://docs.google.com/presentation/d/1sYYzrzXcBWg2LD1092cIw3kd8TJR4YGzlliZhD_xF_M/edit?usp=sharing) | |
+| 03/03 | [2022 Southeast USA Regional Contest Recap](https://docs.google.com/presentation/d/1sYYzrzXcBWg2LD1092cIw3kd8TJR4YGzlliZhD_xF_M/edit?usp=sharing) | |
 
 ### General Tips
 
