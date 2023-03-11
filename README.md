@@ -19,6 +19,7 @@ Please subscribe to our mailing list if you want to join our training sessions (
 * [2023-02-04] North America Qualifier (NAQ)
 * [2023-02-15] [Virtual Career Fair](https://app.careerfairplus.com/nn_fl)
 * [2023-02-25] [ICPC Southern USA Regional Programming Contest](http://seusa.vanb.org)
+* [2023-05-25 - 2023-05-30] [ICPC North America Championship](https://nac.icpc.global/)
 
 
 ## Schedule
