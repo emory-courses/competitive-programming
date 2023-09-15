@@ -23,19 +23,21 @@ We will follow the textbook, **Competitive Programming, Book 1.1**.
 **Author**: Steven Halim, Felix Halim, Suhendry Effendy.
 
 ## Schedule
-Schedule (Tentative) Fall Semester
-Note: hard topics are attempted to be placed up front such that intermediate, or low-occurring / non-critical topics could be in place later to accommodate for exam periods.
 
 | Module | Topics (DS) | Topics (Algo) | Lecturer | Slides (Algo) | Problem Selector |
 |--------|-------------|---------------|----------|---------------|------------------|
-| 1, Sep 18 | Simple I/O templates | Binary Search | Simon | Issac | Slides 1 |
-| 2, Sep 25 | | BFS and DFS (Tree and Graph Traversal) | | | |
-| 3 | | Dynamic Programming | | | |
-| 4 | | Backtracking and Bruteforce | | | |
-| 5 | Special Data Structures (Segment Tree, Fenwick Tree), PreFix and Difference Array | | | | |
-| 6 | | Graphs Template (MST, Topological Sort, Flow) | | | |
-| 7 | Geometry, Usage and Templates | | | | |
-| 8 | | Primes, Mods, Probabilities, and other Mathematical Problem Examples | | | |
+| Sep 18 | Simple I/O templates |  | Simon |  |  |
+| Sep 25 | | | | | |
+| Oct 02 | | | | | |
+| Oct 09 | | | | | |
+| Oct 16 | | | | | |
+| Oct 23 | | | | | |
+| Oct 30 | | | | | |
+| Nov 06 | | | | | |
+| Nov 13 | | | | | |
+| Nov 20 | | | | | |
+| Nov 27 | | | | | |
+| Jan 23, 2024 | | | | | |
 
 ## Resources
 
@@ -43,7 +45,7 @@ Note: hard topics are attempted to be placed up front such that intermediate, or
 Please go to the folder "Fall 2022 - Spring 2023" for Rudi's sessions, with algorithms implemented.
 
 ###  Problem Banks & Contests
-* [Kattis] (https://open.kattis.com/problems) Past server for most NAC, NAQ problems. DOM judge is the new one.
+* [Kattis](https://open.kattis.com/problems) Past server for most NAC, NAQ problems. DOM judge is the new one.
 * [Codeforces](https://codeforces.com/) - Most popular competitive programming website, generally really good problems
 * [AtCoder](https://atcoder.jp/) - Really good high quality problems, more mathy
 * [LeetCode](https://leetcode.com/) - Targets job interviews
