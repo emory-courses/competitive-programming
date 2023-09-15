@@ -10,25 +10,40 @@ Please subscribe to our mailing list if you want to join our training sessions (
 * Send an email to LISTSERV@listserv.emory.edu (no subject is needed).
 * In the body, write `SUBSCRIBE COMPETITIVE-PROGRAMMING [your first name] [your last name]` (e.g., `SUBSCRIBE COMPETITIVE-PROGRAMMING Jeff Epstein`).
 
+## Training Times and Locations
+Recurring Monday 1900-2000.
 
 ## Important Dates
 * [2023-09-27] North American Qualifier Registration Deadline
 * [2023-09-30] [North American Qualifier 1 (NAQ)](https://na.icpc.global/naq/)
 * [2024-01-27] [North American Qualifier 2 (NAQ)](https://na.icpc.global/naq/)
 
+## Textbook
+We will follow the textbook, **Competitive Programming, Book 1.1**.  
+**Author**: Steven Halim, Felix Halim, Suhendry Effendy.
 
 ## Schedule
-To be determined.
+Schedule (Tentative) Fall Semester
+Note: hard topics are attempted to be placed up front such that intermediate, or low-occurring / non-critical topics could be in place later to accommodate for exam periods.
 
-
+| Module | Topics (DS) | Topics (Algo) | Lecturer | Slides (Algo) | Problem Selector |
+|--------|-------------|---------------|----------|---------------|------------------|
+| 1, Sep 18 | Simple I/O templates | Binary Search | Simon | Issac | Slides 1 |
+| 2, Sep 25 | | BFS and DFS (Tree and Graph Traversal) | | | |
+| 3 | | Dynamic Programming | | | |
+| 4 | | Backtracking and Bruteforce | | | |
+| 5 | Special Data Structures (Segment Tree, Fenwick Tree), PreFix and Difference Array | | | | |
+| 6 | | Graphs Template (MST, Topological Sort, Flow) | | | |
+| 7 | Geometry, Usage and Templates | | | | |
+| 8 | | Primes, Mods, Probabilities, and other Mathematical Problem Examples | | | |
 
 ## Resources
 
 ### Past Sessions
-Please go to the folder "Fall 2022 - Spring 2023" for Alex's sessions, with algorithms implemented.
+Please go to the folder "Fall 2022 - Spring 2023" for Rudi's sessions, with algorithms implemented.
 
 ###  Problem Banks & Contests
-* [Kattis] (https://open.kattis.com/problems) Past server for most NAC, NAQ problems.
+* [Kattis] (https://open.kattis.com/problems) Past server for most NAC, NAQ problems. DOM judge is the new one.
 * [Codeforces](https://codeforces.com/) - Most popular competitive programming website, generally really good problems
 * [AtCoder](https://atcoder.jp/) - Really good high quality problems, more mathy
 * [LeetCode](https://leetcode.com/) - Targets job interviews
