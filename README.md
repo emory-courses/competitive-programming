@@ -11,7 +11,7 @@ Please subscribe to our mailing list if you want to join our training sessions (
 * In the body, write `SUBSCRIBE COMPETITIVE-PROGRAMMING [your first name] [your last name]` (e.g., `SUBSCRIBE COMPETITIVE-PROGRAMMING Jeff Epstein`).
 
 ## Training Times and Locations
-Recurring Monday 1900-2000.
+Recurring Monday 19:00-20:00.
 
 ## Important Dates
 * [2023-09-27] North American Qualifier Registration Deadline
@@ -24,20 +24,22 @@ We will follow the textbook, **Competitive Programming, Book 1.1**.
 
 ## Schedule
 
-| Module | Topics (DS) | Topics (Algo) | Lecturer | Slides (Algo) | Problem Selector |
+| Module | Topics (DS) | Topics (Algo) | Lecturer 1 | Lecturer 2 | Problems|
 |--------|-------------|---------------|----------|---------------|------------------|
-| Sep 18 | Simple I/O templates |  | Simon |  |  |
-| Sep 25 | | | | | |
-| Oct 02 | | | | | |
-| Oct 09 | | | | | |
-| Oct 16 | | | | | |
-| Oct 23 | | | | | |
-| Oct 30 | | | | | |
-| Nov 06 | | | | | |
+| Sep 18 | Simple I/O templates | Binary Search | Simon | Issac |  |
+| Sep 25 | Tree and Graph Traversal| BFS and DFS | | | |
+| Oct 02 | | Dynamic Programming| | | |
+| Oct 09 | | Backtracking and Bruteforce | | | |
+| Oct 16 | Special Data Structures (Segment Tree, Fenwick Tree), PreFix and Difference Array | | | | |
+| Oct 23 | | Graphs Template (MST, Topological Sort, Flow)| | | |
+| Oct 30 | Geometry, Usage and Templates| | | | |
+| Nov 06 | | Primes, Mods, Probabilities, and other Mathematical Problem Examples| | | |
 | Nov 13 | | | | | |
 | Nov 20 | | | | | |
 | Nov 27 | | | | | |
 | Jan 23, 2024 | | | | | |
+
+A tentative training proposal is updated at: https://emory-my.sharepoint.com/:w:/g/personal/sbian8_emory_edu/EaWflnGrglVFqBZGw3Doo_0BT-e9abjBiG0xltJBVgWipg?e=9WercM
 
 ## Resources
 
@@ -45,11 +47,11 @@ We will follow the textbook, **Competitive Programming, Book 1.1**.
 Please go to the folder "Fall 2022 - Spring 2023" for Rudi's sessions, with algorithms implemented.
 
 ###  Problem Banks & Contests
-* [Kattis](https://open.kattis.com/problems) Past server for most NAC, NAQ problems. DOM judge is the new one.
-* [Codeforces](https://codeforces.com/) - Most popular competitive programming website, generally really good problems
-* [AtCoder](https://atcoder.jp/) - Really good high quality problems, more mathy
+* [Kattis](https://open.kattis.com/problems) Past server that clones or reposits most NAQ, Regional, NAC, and/or ICPC problems. It is being phased about by DOMJudge, but DOMJudge's problems would typically not be open for submission.
+* [Codeforces](https://codeforces.com/) - Popular competitive programming website.
+* [AtCoder](https://atcoder.jp/) - Popular competitive programming website.
 * [LeetCode](https://leetcode.com/) - Targets job interviews
-* [HackerRank](https://www.hackerrank.com/) - Targets job interviews, low quality problems
+* [HackerRank](https://www.hackerrank.com/) - Targets job interviews.
 
 ### Learning Topics and Algorithms
 * Competitive Programming, Book 1.1. Author: Steven Halim, Felix Halim, Suhendry Effendy.
