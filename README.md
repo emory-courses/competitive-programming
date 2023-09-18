@@ -11,8 +11,7 @@ Please subscribe to our mailing list if you want to join our training sessions (
 * In the body, write `SUBSCRIBE COMPETITIVE-PROGRAMMING [your first name] [your last name]` (e.g., `SUBSCRIBE COMPETITIVE-PROGRAMMING Jeff Epstein`).
 
 ## Training Times and Locations
-Recurring Monday 19:00-20:00.
-We will be meeting at MSC W301.
+Recurring Monday 19:00-20:00 at MSC W301.
 
 ## Important Dates
 * [2023-09-27] North American Qualifier Registration Deadline
