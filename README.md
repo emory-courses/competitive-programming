@@ -40,7 +40,7 @@ We will follow the textbook, **Competitive Programming, Book 1.1**.
 | Jan 23, 2024 | -                                           | -                                                          | -          | -          | -                                                                                                    | -                                                                                                                                                                                                                                                           |
 
 
-A tentative training proposal is updated at: https://emory-my.sharepoint.com/:w:/g/personal/sbian8_emory_edu/EaWflnGrglVFqBZGw3Doo_0BT-e9abjBiG0xltJBVgWipg?e=9WercM
+A [tentative training proposal](https://emory-my.sharepoint.com/:w:/g/personal/sbian8_emory_edu/EaWflnGrglVFqBZGw3Doo_0BT-e9abjBiG0xltJBVgWipg?e=9WercM) is updated.
 
 ## Resources
 
