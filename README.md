@@ -12,6 +12,7 @@ Please subscribe to our mailing list if you want to join our training sessions (
 
 ## Training Times and Locations
 Recurring Monday 19:00-20:00.
+Location (Tentatively): MSC W301.
 
 ## Important Dates
 * [2023-09-27] North American Qualifier Registration Deadline
@@ -24,20 +25,20 @@ We will follow the textbook, **Competitive Programming, Book 1.1**.
 
 ## Schedule
 
-| Module | Topics (DS) | Topics (Algo) | Lecturer 1 | Lecturer 2 | Problems|
+| Module | Topics (DS) | Topics (Algo) | Lecturer 1 | Lecturer 2 | Problems| Slides|
 |--------|-------------|---------------|----------|---------------|------------------|
-| Sep 18 | Simple I/O templates | Binary Search | Simon | Issac |  |
-| Sep 25 | Tree and Graph Traversal| BFS and DFS | | | |
-| Oct 02 | | Dynamic Programming| | | |
-| Oct 09 | | Backtracking and Bruteforce | | | |
-| Oct 16 | Special Data Structures (Segment Tree, Fenwick Tree), PreFix and Difference Array | | | | |
-| Oct 23 | | Graphs Template (MST, Topological Sort, Flow)| | | |
-| Oct 30 | Geometry, Usage and Templates| | | | |
-| Nov 06 | | Primes, Mods, Probabilities, and other Mathematical Problem Examples| | | |
-| Nov 13 | | | | | |
-| Nov 20 | | | | | |
-| Nov 27 | | | | | |
-| Jan 23, 2024 | | | | | |
+| Sep 18 | Simple I/O templates | Binary Search | Simon | Issac | [In-Lab](https://open.kattis.com/contests/qici24/problems) [Post-Session](https://open.kattis.com/contests/qizduh/edit) | [DS, I/O](https://emory-my.sharepoint.com/:p:/g/personal/sbian8_emory_edu/EULsCqGXSEJNkRL4432JsP4BbJkV11pLSPK5TMfYDipxPA?e=0jlNzq) [Binary Search](https://emory-my.sharepoint.com/:p:/g/personal/wlight_emory_edu/EQkIrBqsVi9MjQL3v2CyYnkBlPAO9UL71-RTyt2iJdByuQ?e=R1v1Wa)|
+| Sep 25 | Tree and Graph Traversal| BFS and DFS | | | | |
+| Oct 02 | | Dynamic Programming| | | | |
+| Oct 09 | | Backtracking and Bruteforce | | | | |
+| Oct 16 | Special Data Structures (Segment Tree, Fenwick Tree), PreFix and Difference Array | | | | | |
+| Oct 23 | | Graphs Template (MST, Topological Sort, Flow)| | | | |
+| Oct 30 | Geometry, Usage and Templates| | | | | |
+| Nov 06 | | Primes, Mods, Probabilities, and other Mathematical Problem Examples| | | | |
+| Nov 13 | | | | | | |
+| Nov 20 | | | | | | |
+| Nov 27 | | | | | | |
+| Jan 23, 2024 | | | | | | |
 
 A tentative training proposal is updated at: https://emory-my.sharepoint.com/:w:/g/personal/sbian8_emory_edu/EaWflnGrglVFqBZGw3Doo_0BT-e9abjBiG0xltJBVgWipg?e=9WercM
 
