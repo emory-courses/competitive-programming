@@ -21,6 +21,7 @@ Recurring Monday 19:00-20:00 at MSC W301.
 ## Textbook
 We will follow the textbook, **Competitive Programming, Book 1.1**.  
 **Author**: Steven Halim, Felix Halim, Suhendry Effendy.
+[Link to Textbook and Slides](https://emory-my.sharepoint.com/:f:/g/personal/sbian8_emory_edu/EoV00S3vvHJAmBWgBONwPmMBiHuxoudGOAp5Jjre5ko4BQ?e=NRHx7x)
 
 ## Schedule
 | Date         | Module Topics                               | Algorithms Topics                                         | Lecturer 1 | Lecturer 2 | Problems                                                                                            | Slides                                                                                                                                                                                                                                                    |

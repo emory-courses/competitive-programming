@@ -1,0 +1,26 @@
+name: Circular Caramel Cookie
+author: Maarten Sijm
+# Contest name and year
+source: Northwestern Europe Regional Contest (NWERC) 2022
+# contest.region.eu
+source_url: https://2022.nwerc.eu
+license: cc by-sa
+rights_owner: author
+
+# 'default', 'custom', or 'custom interactive'
+validation: default
+
+# One or more of:
+# case_sensitive
+# space_change_sensitive
+# float_absolute_tolerance eps
+# float_relative_tolerance eps
+# float_tolerance eps
+validator_flags: float_tolerance 1e-6
+
+# To change the time limit factors for problemtools/Kattis, use:
+# limits:
+# Time limit is 2*slowest accepted submission: (default: 5)
+#     time_multiplier: 2
+# Warning for submissions within 50% of time limit
+#     time_safety_margin: 1.5
