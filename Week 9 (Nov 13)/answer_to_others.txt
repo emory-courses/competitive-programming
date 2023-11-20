@@ -1,0 +1,21 @@
+Three Dice:
+Data: http://serjudging.vanb.org/wp-content/uploads/data-124.zip
+Accepted: http://serjudging.vanb.org/wp-content/uploads/accepted-139.zip
+Note: Division 1, from 2022, but also in Division 2., Georgia Regional.
+
+====
+Tic Tac Toe:
+Data http://serjudging.vanb.org/wp-content/uploads/data-111.zip
+Accepted http://serjudging.vanb.org/wp-content/uploads/accepted-111.zip
+Note: NAC from 2022.
+
+====
+
+Four Square:
+Data http://serjudging.vanb.org/wp-content/uploads/data-5.tgz
+Accepted http://serjudging.vanb.org/wp-content/uploads/accepted-5.tgz
+Note: NAC from 2023.
+
+====
+Further Note on these problems:
+All these problems require some improvement on bruteforce. However, notably they are also the easiest problems in NAC, and some beginner problem from Regionals.
