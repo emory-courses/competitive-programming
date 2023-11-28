@@ -1,0 +1,1 @@
+We have only 1 problem discussed today on the cuckoo-clock problem. To make sure you get the tests correct, please use a.py. It will invoke the correct answer and a gen.py to genereate some in and out. Afterwards, use the checker in a few weeks ago uploaded to check your answer.
