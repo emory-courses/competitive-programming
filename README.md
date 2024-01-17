@@ -1,7 +1,7 @@
 # M||E Competitive Programming
 
-**M||E** (pronounced "Emory") **Competitive Programming** is a student-led organization interested in [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming) that requires proficient skills in problem solving, efficient coding, and error handling.
-We provide training sessions and practice tests to prepare for the International Collegiate Programming Contest (ICPC).
+**M||E** (pronounced "Emory") **Competitive Programming** is a student-led organization interested in [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming) that requires proficient skills in problem solving, efficient coding, and error handling. 
+We provide training sessions and practice tests to prepare for the International Collegiate Programming Contest (ICPC), and we are an official college-wide recognized organization at [theHub](https://thehub.emory.edu/organization/m-or-e).
 The Emory teams have participated in [the ICPC Southeast USA Regional Programming Contest](http://seusa.vanb.org) for many years and have consistently been among the top 3 schools.
 We strive for our teams to advance to the ICPC World Final, one of the most prestigious competitions for undergraduates in Computer Science.
 
@@ -9,14 +9,20 @@ Please subscribe to our mailing list if you want to join our training sessions (
 
 * Send an email to LISTSERV@listserv.emory.edu (no subject is needed).
 * In the body, write `SUBSCRIBE COMPETITIVE-PROGRAMMING [your first name] [your last name]` (e.g., `SUBSCRIBE COMPETITIVE-PROGRAMMING Jeff Epstein`).
+* You may also opt to join the theHub webpage for a demonstration of commitment. 
 
 ## Training Times and Locations
-Recurring Monday 19:00-20:00 at MSC W301.
+Spring locations and times are pending upon further interest in group members. 
 
 ## Important Dates
 * [2023-09-27] North American Qualifier Registration Deadline
 * [2023-09-30] [North American Qualifier 1 (NAQ)](https://na.icpc.global/naq/)
 * [2024-01-27] [North American Qualifier 2 (NAQ)](https://na.icpc.global/naq/)
+* North American Regional (Southeast Site) will be held **Feb 24, 2024.**
+
+## Logistics
+Please view the below image for an idea of the cycle of the competition. 
+![image](https://github.com/emory-courses/competitive-programming/assets/52821055/e916be51-65c7-436e-9dcf-d0abe606edc8)
 
 ## Textbook
 We will follow the textbook, **Competitive Programming, Book 1.1**.  
