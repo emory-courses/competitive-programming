@@ -19,6 +19,7 @@ Spring locations and times are pending upon further interest in group members.
 * [2023-09-30] [North American Qualifier 1 (NAQ)](https://na.icpc.global/naq/)
 * [2024-01-27] [North American Qualifier 2 (NAQ)](https://na.icpc.global/naq/)
 * North American Regional (Southeast Site) will be held **Feb 24, 2024.**
+* If you would like to compete in the Regional, you must indicate your preference so that an appropriate selection method could be determined. You must fill out this form to indicate your official interest: https://forms.office.com/r/vDTbDHZQmF. Emory Logins required for submission. Current deadline: 2024/1/24, 19:00.
 
 ## Logistics
 Please view the below image for an idea of the cycle of the competition. 
