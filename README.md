@@ -12,7 +12,10 @@ Please subscribe to our mailing list if you want to join our training sessions (
 * You may also opt to join the theHub webpage for a demonstration of commitment. 
 
 ## Training Times and Locations
-Please see meeting times by email.
+| Meeting Times    | Subject                   | Location                            | Hosts        | More Info                                         |
+|------------------|---------------------------|-------------------------------------|--------------|---------------------------------------------------|
+| Mon Jan 22, 2024 | Ice-breaking and Practice | Online (emory.zoom.us/my/simonbian) | Simon, Harry | https://rmc23.kattis.com/contests/rmc23/standings |
+| Sat Jan 27, 2024 | North American Qualifier  | Library (Woodruff Main 213)         | None         | Please see your individaul emails for links.      |
 
 ## Important Dates
 * [2023-09-27] North American Qualifier Registration Deadline
