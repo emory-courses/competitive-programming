@@ -12,12 +12,12 @@ Please subscribe to our mailing list if you want to join our training sessions (
 * You may also opt to join the theHub webpage for a demonstration of commitment. 
 
 ## Training Times and Locations
-Spring locations and times are pending upon further interest in group members. 
+Please see meeting times by email.
 
 ## Important Dates
 * [2023-09-27] North American Qualifier Registration Deadline
 * [2023-09-30] [North American Qualifier 1 (NAQ)](https://na.icpc.global/naq/)
-* [2024-01-27] [North American Qualifier 2 (NAQ)](https://na.icpc.global/naq/)
+* [2024-01-27] [North American Qualifier 2 (NAQ)](https://na.icpc.global/naq/) We will be meeting this date at Group Study Room 213, Woodruff Library, Emory University on this day (Saturday) from 2 - 7 pm, Eastern Time. (1-6 Central Time converted)
 * North American Regional (Southeast Site) will be held **Feb 24, 2024.**
 * If you would like to compete in the Regional, you must indicate your preference so that an appropriate selection method could be determined. You must fill out this form to indicate your official interest: https://forms.office.com/r/vDTbDHZQmF. Emory Logins required for submission. Current deadline: 2024/1/24, 19:00.
 
@@ -30,26 +30,10 @@ We will follow the textbook, **Competitive Programming, Book 1.1**.
 **Author**: Steven Halim, Felix Halim, Suhendry Effendy.
 [Link to Textbook and Slides](https://emory-my.sharepoint.com/:f:/g/personal/sbian8_emory_edu/EoV00S3vvHJAmBWgBONwPmMBiHuxoudGOAp5Jjre5ko4BQ?e=NRHx7x)
 
-## Schedule
-| Date         | Module Topics                               | Algorithms Topics                                         | Lecturer 1 | Lecturer 2 | Problems                                                                                            | Slides                                                                                                                                                                                                                                                    |
-|--------------|--------------------------------------------|------------------------------------------------------------|------------|------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sep 18       | -                        | Binary Search                                              | -     | Issac      | [Q1](https://leetcode.com/problems/binary-search/) [Q2](https://leetcode.com/problems/sqrtx/) [Q3](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) [Q4](https://codeforces.com/problemset/problem/1840/D)             | [Binary Search](https://emory-my.sharepoint.com/:p:/g/personal/wlight_emory_edu/EQkIrBqsVi9MjQL3v2CyYnkBlPAO9UL71-RTyt2iJdByuQ?e=R1v1Wa) |
-| Sep 25       | Priority Queue, HashMap, and Data Structures                   |                                                 | Simon          | -          | [DS, I/O](https://emory-my.sharepoint.com/:p:/g/personal/sbian8_emory_edu/EULsCqGXSEJNkRL4432JsP4BbJkV11pLSPK5TMfYDipxPA?e=0jlNzq),                                                                                                     | -                                                                                                                                                                                                                                                           |
-| Oct 02       | Two pointers, Prefix Sum                                           | Practice                                        | Harry          | -          | [Practice](https://codeforces.com/group/b4f7HxeQ1x/contests)                                                                                                    | -                                                                                                                                                                                                                                                           |
-| Oct 16       | Graphs Template 1 (DFS, BFS, Read in, Read out, Simple SSSP) | -                                                          | Simon         | -          | [Practice](https://open.kattis.com/contests/fc5y9g/edit)                                                                                                    | -                                                                                                                                                                                                                                                           |
-| Oct 23       | [Practice](https://codeforces.com/group/b4f7HxeQ1x/contest/481353)                                          | -              | Harry          |           | -                                                                                                    | -                                                                                                                                                                                                                                                           |
-| Oct 30       | Primes, Mods, Probabilities, Mathematical Problem Examples              | -                                                          | Issac          | -          | -                                                                                                    | -                                                                                                                                                                                                                                                           |
-| Nov 06       | Practice Contest in GNRY and                                            |  | -          | Team Lead          |  [Link](https://open.kattis.com/contests/kvsgs4)                                                                                                    | -                                                                                                                                                                                                                                                           |
-| Nov 13       | Enumeration and Brute Force                                            | -                                                          | Simon          | [Link](https://open.kattis.com/contests/o4xhje)          | -                                                                                                    | -                                                                                                                                                                                                                                                           |
-| Nov 20       | [Practice Contest in NCNA](https://open.kattis.com/contests/wxha77)                                          | -                                                          | Team Lead          | -          | -                                                                                                    | -                                                                                                                                                                                                                                                           |
-| Nov 27       | -                                           | -                                                          | -          | -          | -                                                                                                    | -                                                                                                                                                                                                                                                           |
-
-A [tentative training proposal](https://emory-my.sharepoint.com/:w:/g/personal/sbian8_emory_edu/EaWflnGrglVFqBZGw3Doo_0BT-e9abjBiG0xltJBVgWipg?e=9WercM) is updated.
-
 ## Resources
 
 ### Past Sessions
-Please go to the folder "Fall 2022 - Spring 2023" for Rudi's sessions, with algorithms implemented.
+Please go to the folder "Fall 2022 - Spring 2023" or "Fall 2023" for Rudi's sessions, with algorithms implemented.
 
 ###  Problem Banks & Contests
 * [Kattis](https://open.kattis.com/problems) Past server that clones or reposits most NAQ, Regional, NAC, and/or ICPC problems. It is being phased about by DOMJudge, but DOMJudge's problems would typically not be open for submission.
@@ -64,3 +48,9 @@ Please go to the folder "Fall 2022 - Spring 2023" for Rudi's sessions, with algo
 * [CP Algorithms](https://cp-algorithms.com/)
 * [USACO Guide](https://usaco.guide/)
 * [Yosupo's Library Checker](https://judge.yosupo.jp/) - For checking own implementation of classic algorithms
+
+
+## Leadership
+Most of our members are now seniors! Thanks to the seniors who have joined and grown with us. For rising sophomores, juniors, and seniors, please remember to email simon.bian@emory.edu or harry.he@emory.edu for transfering the leadership of the group before May 2024. One necessary step is to add you on theHub so the school can still recognize this organization, and gradually may allot funding. We want the group to be growing! 
+
+
