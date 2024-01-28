@@ -15,7 +15,7 @@ Please subscribe to our mailing list if you want to join our training sessions (
 | Meeting Times    | Subject                   | Location                            | Hosts        | More Info                                         |
 |------------------|---------------------------|-------------------------------------|--------------|---------------------------------------------------|
 | Mon Jan 22, 2024 | Ice-breaking and Practice | Online (emory.zoom.us/my/simonbian) | Simon, Harry | [Learning to Submit - New Comers](https://open.kattis.com/contests/kohkwf), [Practice for Regional](https://open.kattis.com/contests/iv54hs) |
-| Sat Jan 27, 2024 | North American Qualifier  | Library (Woodruff Main 213)         | None         | Please see your individaul emails for links.      |
+| Sat Jan 27, 2024 | North American Qualifier  | Library (Woodruff Main 213)         | None         | [NAQ](https://naq23.kattis.com/contests/naq23-spring)      |
 
 ## Important Dates
 * [2023-09-27] North American Qualifier Registration Deadline
