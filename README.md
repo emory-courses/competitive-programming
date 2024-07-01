@@ -5,7 +5,7 @@ We provide training sessions and practice tests to prepare for the International
 The Emory teams have participated in [the ICPC Southeast USA Regional Programming Contest](http://seusa.vanb.org) for many years and have consistently been among the top 3 schools.
 We strive for our teams to advance to the ICPC World Final, one of the most prestigious competitions for undergraduates in Computer Science.
 
-Join our new GroupMe link for updates and community: https://github.com/emory-courses/competitive-programming
+Join our [GroupMe](https://groupme.com/join_group/101561845/GBZMsaWp) link for club updates and community chat!
 
 and/or
 
