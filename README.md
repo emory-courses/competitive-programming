@@ -7,26 +7,19 @@ We strive for our teams to advance to the ICPC World Final, one of the most pres
 
 Join our [GroupMe](https://groupme.com/join_group/101561845/GBZMsaWp) link for club updates and community chat!
 
-and/or
-
-Please subscribe to our mailing list if you want to join our training sessions (Emory students only):
-
-* Send an email to LISTSERV@listserv.emory.edu (no subject is needed).
-* In the body, write `SUBSCRIBE COMPETITIVE-PROGRAMMING [your first name] [your last name]` (e.g., `SUBSCRIBE COMPETITIVE-PROGRAMMING Jeff Epstein`).
-* You may also opt to join the theHub webpage for a demonstration of commitment. 
-
 ## Training Times and Locations
 | Meeting Times    | Subject                   | Location                            | Hosts        | More Info                                         |
 |------------------|---------------------------|-------------------------------------|--------------|---------------------------------------------------|
-| Mon Jan 22, 2024 | Ice-breaking and Practice | Online (emory.zoom.us/my/simonbian) | Simon, Harry | [Learning to Submit - New Comers](https://open.kattis.com/contests/kohkwf), [Practice for Regional](https://open.kattis.com/contests/iv54hs) |
-| Sat Jan 27, 2024 | North American Qualifier  | Library (Woodruff Main 213)         | None         | [NAQ](https://naq23.kattis.com/contests/naq23-spring)      |
+| Mondays 7pm, Math and Science Center Room W301 | Lesson and Practice Questions | Online (emory.zoom.us/my/simonbian) | Isaac | [Learning to Submit - New Comers](https://open.kattis.com/contests/kohkwf), [Practice for Regional](https://open.kattis.com/contests/iv54hs) |
+| October 5, 2024 | North American Qualifier  | Library       | None         | [NAQ](https://na.icpc.global/naq/)      |
+| November 16, 2024 | Southeast Regional Contest | TBD | TBD | [Regional](https://icpc.global/regionals/finder/Southeast-USA) |
 
 ## Important Dates
-* [2023-09-27] North American Qualifier Registration Deadline
-* [2023-09-30] [North American Qualifier 1 (NAQ)](https://na.icpc.global/naq/)
-* [2024-01-27] [North American Qualifier 2 (NAQ)](https://na.icpc.global/naq/) We will be meeting this date at Group Study Room 213, Woodruff Library, Emory University on this day (Saturday) from 2 - 7 pm, Eastern Time. (1-6 Central Time converted)
-* North American Regional (Southeast Site) will be held **Feb 24, 2024.**
-* If you would like to compete in the Regional, you must indicate your preference so that an appropriate selection method could be determined. You must fill out this form to indicate your official interest: https://forms.office.com/r/vDTbDHZQmF. Emory Logins required for submission. Current deadline: 2024/1/24, 19:00.
+* [2024-10-2] North American Qualifier Registration Deadline
+* [2024-10-5] [North American Qualifier 1 (NAQ)](https://na.icpc.global/naq/)
+* [2024-11-9] Southeast Regional Registration Deadline
+* North American Regional (Southeast Site) will be held **November 16, 2024.**
+* If you would like to compete in the Regional, you must indicate your preference so that an appropriate selection method could be determined. You must fill out this form to indicate your official interest: Coming Soon
 
 ## Logistics
 Please view the below image for an idea of the cycle of the competition. 
